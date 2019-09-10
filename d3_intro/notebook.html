@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<body>
+    <h2>Barras 1 - Vinculando um vetor a dados</h2>
+    	<div id="chart">
+	</div>
+    
+    <h2>Barras 2 - Vinculando um vetor de objetos</h2>
+    	<div id="chart2">
+	</div>
+    
+    <h2>Barras 3 - Carregando dados de arquivo</h2>
+    	<div id="chart3">
+	</div>
+
+    <h2>Barras 4 - Ordenando dados</h2>
+    	<div id="chart4">
+	</div>
+
+
+<script type="module">
+
+// Load the Observable runtime and inspector.
+import {Runtime, Inspector} from "https://cdn.jsdelivr.net/npm/@observablehq/runtime@4/dist/runtime.js";
+
+// Your notebook, compiled as an ES module.
+import notebook from "https://api.observablehq.com/@katharineamaral29/introducao-ao-d3-com-observable.js?v=3";
+
+// Load the notebook, observing its cells with a default Inspector
+// that simply renders the value of each cell into the provided DOM node.
+new Runtime().module(notebook, name => {
+  if (name === "barras1") {
+    return new Inspector(document.querySelector("#chart"));
+  }
+
+  else  if (name === "barras2") {
+    return new Inspector(document.querySelector("#chart2"));
+  }
+
+  else  if (name === "barras3") {
+    return new Inspector(document.querySelector("#chart3"));
+  }
+
+  else  if (name === "barras4") {
+    return new Inspector(document.querySelector("#chart4"));
+  }
+});
+
+</script>
