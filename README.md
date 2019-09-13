@@ -13,4 +13,8 @@
 
 ---
 
+## Aula do dia 04/09/2019 - Introdução ao D3 - Parte 1 (dados)
+
+[notebook.html](d3_intro/notebook.html)<br>
+
 Para saber mais sobre a sintaxe markdown, veja [este guia](https://guides.github.com/features/mastering-markdown/).

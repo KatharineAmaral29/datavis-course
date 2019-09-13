@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<body>
+    <h1>Introdução ao D3 (Parte 2) - Escalas e Eixos</h1>
+
+    <h2>Scatterplot - Um Primeiro Scatterplot</h2>
+    	<div id="scatterplot">
+	</div>
+    
+    <h2>Scatterplot - Escalas</h2>
+    	<div id="scatterplot2">
+	</div>
+    
+    <h2>Scatterplot - Refinando o scatterplot</h2>
+    	<div id="scatterplot3">
+	</div>
+
+    <h2>Scatterplot - Exercício Movies</h2>
+    	<div id="scatterplotMovies">
+	</div>
+
+
+<script type="module">
+
+// Load the Observable runtime and inspector.
+import {Runtime, Inspector} from "https://cdn.jsdelivr.net/npm/@observablehq/runtime@4/dist/runtime.js";
+
+// Your notebook, compiled as an ES module.
+import notebook from "https://api.observablehq.com/@katharineamaral29/introducao-ao-d3-parte-2-escalas-e-eixos.js?v=3";
+
+// Load the notebook, observing its cells with a default Inspector
+// that simply renders the value of each cell into the provided DOM node.
+new Runtime().module(notebook, name => {
+  if (name === "scatter1") {
+    return new Inspector(document.querySelector("#scatterplot"));
+  }
+
+  else  if (name === "scatter2") {
+    return new Inspector(document.querySelector("#scatterplot2"));
+  }
+
+  else  if (name === "scatter3") {
+    return new Inspector(document.querySelector("#scatterplot3"));
+  }
+
+  else  if (name === "movies") {
+    return new Inspector(document.querySelector("#scatterplotMovies"));
+  }
+});
+
+</script>
