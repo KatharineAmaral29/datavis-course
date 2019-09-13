@@ -1,3 +1,16 @@
+
+## Aula do dia 11/09/2019 - Introdução ao D3 (Parte 2) - Escalas e Eixos
+
+[scatterplot.html](d3_scale/scatterplot.html)<br>
+
+---
+
+## Aula do dia 04/09/2019 - Introdução ao D3 - Parte 1 (dados)
+
+[notebook.html](d3_intro/notebook.html)<br>
+
+---
+
 ## Aula do dia 02/09/2019
 
 [index01.html](basic/index01.html)<br>
@@ -11,10 +24,9 @@
 [index09.html](basic/index09.html)<br>
 [index10.html](basic/index10.html)<br>
 
+
+
+
 ---
-
-## Aula do dia 04/09/2019 - Introdução ao D3 - Parte 1 (dados)
-
-[notebook.html](d3_intro/notebook.html)<br>
 
 Para saber mais sobre a sintaxe markdown, veja [este guia](https://guides.github.com/features/mastering-markdown/).
