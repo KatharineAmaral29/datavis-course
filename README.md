@@ -1,3 +1,8 @@
+## Aula do dia 16/09/2019 - Introdução ao D3 (Parte 3) - Updates e Transições
+
+[scatterplot.html](d3_update/scatterplot.html)<br>
+
+---
 
 ## Aula do dia 11/09/2019 - Introdução ao D3 (Parte 2) - Escalas e Eixos
 
