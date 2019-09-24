@@ -1,3 +1,9 @@
+## Aula do dia 23/09/2019 - D3 com Crossfilter e DC.js
+
+[index.html](d3_crossfilter/d3-com-crossfilter-e-dc-js/index.html)<br>
+
+---
+
 ## Aula do dia 16/09/2019 - Introdução ao D3 (Parte 3) - Updates e Transições
 
 [scatterplot.html](d3_update/scatterplot.html)<br>
