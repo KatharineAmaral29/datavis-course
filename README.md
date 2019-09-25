@@ -1,3 +1,9 @@
+## Aula do dia 25/09/2019 - D3 com Crossfilter e DC.js (Parte 2)
+
+[index.html](d3_crossfilter_2/d3-com-crossfilter-e-dc-js-parte-2/index.html)<br>
+
+---
+
 ## Aula do dia 23/09/2019 - D3 com Crossfilter e DC.js
 
 [index.html](d3_crossfilter/d3-com-crossfilter-e-dc-js/index.html)<br>
