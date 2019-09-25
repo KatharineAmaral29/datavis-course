@@ -1,0 +1,14 @@
+{
+  "name": "@katharineamaral29/d3-com-crossfilter-e-dc-js-parte-2",
+  "main": "d/85c2fd30d604bafc.js",
+  "version": "210.0.0",
+  "homepage": "https://observablehq.com/@katharineamaral29/d3-com-crossfilter-e-dc-js-parte-2",
+  "author": {
+    "name": "Katharine Amaral",
+    "url": "https://observablehq.com/@katharineamaral29"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4"
+  }
+}
