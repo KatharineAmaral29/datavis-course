@@ -1,3 +1,10 @@
+## Aula do dia 30/09/2019 - D3 com Crossfilter e DC.js e Leaflet
+
+[index.html](d3_leaflet/index.html)<br>
+[chicago.html](d3_leaflet_chicago/index.html)<br>
+
+---
+
 ## Aula do dia 25/09/2019 - D3 com Crossfilter e DC.js (Parte 2)
 
 [index.html](d3_crossfilter_2/d3-com-crossfilter-e-dc-js-parte-2/index.html)<br>
