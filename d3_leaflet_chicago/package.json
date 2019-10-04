@@ -1,0 +1,14 @@
+{
+  "name": "@katharineamaral29/visualizando-crimes-em-chicago",
+  "main": "d/eccaa0a0119b684c.js",
+  "version": "367.0.0",
+  "homepage": "https://observablehq.com/@katharineamaral29/visualizando-crimes-em-chicago",
+  "author": {
+    "name": "Katharine Amaral",
+    "url": "https://observablehq.com/@katharineamaral29"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4"
+  }
+}
