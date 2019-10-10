@@ -1,0 +1,14 @@
+{
+  "name": "@katharineamaral29/exercicio-4-les-miserables",
+  "main": "d/e5cb3a7fb65ee381.js",
+  "version": "78.0.0",
+  "homepage": "https://observablehq.com/@katharineamaral29/exercicio-4-les-miserables",
+  "author": {
+    "name": "Katharine Amaral",
+    "url": "https://observablehq.com/@katharineamaral29"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4"
+  }
+}

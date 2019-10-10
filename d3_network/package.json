@@ -1,0 +1,14 @@
+{
+  "name": "@katharineamaral29/similar-song-network",
+  "main": "d/9be9b942946a1553.js",
+  "version": "68.0.0",
+  "homepage": "https://observablehq.com/@katharineamaral29/similar-song-network",
+  "author": {
+    "name": "Katharine Amaral",
+    "url": "https://observablehq.com/@katharineamaral29"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4"
+  }
+}
