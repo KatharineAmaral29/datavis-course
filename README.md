@@ -1,3 +1,10 @@
+## Aula do dia 09/10/2019 - Visualização de Redes e Árvores em D3
+
+[index.html](d3_network/index.html)<br>
+[lesmiserables.html](d3_network2/index.html)<br>
+
+---
+
 ## Aula do dia 30/09/2019 - D3 com Crossfilter e DC.js e Leaflet
 
 [index.html](d3_leaflet/index.html)<br>
