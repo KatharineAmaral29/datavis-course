@@ -1,0 +1,14 @@
+{
+  "name": "@katharineamaral29/homicidios-em-fortaleza-em-2012",
+  "main": "d/834b6dc7335e9b45.js",
+  "version": "90.0.0",
+  "homepage": "https://observablehq.com/@katharineamaral29/homicidios-em-fortaleza-em-2012",
+  "author": {
+    "name": "Katharine Amaral",
+    "url": "https://observablehq.com/@katharineamaral29"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4"
+  }
+}
