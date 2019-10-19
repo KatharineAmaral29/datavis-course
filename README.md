@@ -1,3 +1,10 @@
+## Aula do dia 16/10/2019 - Cores em D3
+
+[desemprego.html](d3_color/index.html)<br>
+[homicidios.html](d3_color2/index.html)<br>
+
+---
+
 ## Aula do dia 09/10/2019 - Visualização de Redes e Árvores em D3
 
 [index.html](d3_network/index.html)<br>
