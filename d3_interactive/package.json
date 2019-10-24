@@ -1,0 +1,14 @@
+{
+  "name": "@katharineamaral29/taxa-de-desemprego-nos-eua-em-agosto-de-2016-parte-2",
+  "main": "d/f7e000222c920f28.js",
+  "version": "95.0.0",
+  "homepage": "https://observablehq.com/@katharineamaral29/taxa-de-desemprego-nos-eua-em-agosto-de-2016-parte-2",
+  "author": {
+    "name": "Katharine Amaral",
+    "url": "https://observablehq.com/@katharineamaral29"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4"
+  }
+}

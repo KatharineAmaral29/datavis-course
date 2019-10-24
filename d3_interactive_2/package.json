@@ -1,0 +1,14 @@
+{
+  "name": "@katharineamaral29/d3-com-crossfilter-dc-js-e-leaflet-parte-2",
+  "main": "d/77d7893dac50e3b2.js",
+  "version": "87.0.0",
+  "homepage": "https://observablehq.com/@katharineamaral29/d3-com-crossfilter-dc-js-e-leaflet-parte-2",
+  "author": {
+    "name": "Katharine Amaral",
+    "url": "https://observablehq.com/@katharineamaral29"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4"
+  }
+}
